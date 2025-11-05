@@ -60,6 +60,3 @@ The dataset contains records of hotel transactions, including:
 * Automated alerts for delayed payments
 * Advanced predictive analysis for cancellation and refund trends
 
-
-
-If you want, I can also make a **shorter, resume-ready GitHub README** that’s 1–2 scrolls long and more visually engaging. Do you want me to do that?
